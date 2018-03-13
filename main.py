@@ -1,8 +1,6 @@
-print("hello World")
-
-for i in range(19):
-	print(str(i) + " Hello")
-
-x = input("Type your input: ")
-
-print("You typed: " + str(x))
+print("Hello World")
+print("test")
+a = input("Input here: ")
+print (a)
+for i in range(10):
+	print (i)
